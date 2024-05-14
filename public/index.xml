@@ -13,7 +13,14 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 14 May 2024 14:16:44 -0500</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Ain&amp;rsquo;t this some shit</description>
+      <description>On Bums H. L. Mencken identified three types of itinerant workers in America:&#xA;The hobo, simply a migratory laborer; he may take some longish holidays, but soon or late he returns to work. The tramp, who never works if it can be avoided; he simply travels. The bum, who neither works nor travels, save when impelled to motion by the police. It is the for the Philadelphia sports iteration of the latter this website was created.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 14 May 2024 14:16:44 -0500</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Leave me alone</description>
     </item>
   </channel>
 </rss>
