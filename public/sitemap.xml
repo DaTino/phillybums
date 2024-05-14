@@ -3,7 +3,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/about/</loc>
+	    <loc>https://phillybums.com/about/</loc>
 	    <lastmod>2024-05-14</lastmod>
         
 
@@ -14,7 +14,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/contact/</loc>
+	    <loc>https://phillybums.com/contact/</loc>
 	    <lastmod>2024-05-14</lastmod>
         
 
@@ -25,7 +25,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/</loc>
+	    <loc>https://phillybums.com/</loc>
 	    <lastmod>2024-05-14</lastmod>
         
 
@@ -36,7 +36,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/categories/</loc>
+	    <loc>https://phillybums.com/categories/</loc>
 	    <lastmod>0001-01-01</lastmod>
         
 
@@ -47,7 +47,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/tags/</loc>
+	    <loc>https://phillybums.com/tags/</loc>
 	    <lastmod>0001-01-01</lastmod>
         
 
